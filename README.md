@@ -6,3 +6,4 @@ Runs locally in terminal as a part of VS code in the CostumeCraft folder with co
 ![image](https://user-images.githubusercontent.com/61862031/231009843-2937694f-a220-4ae7-b4c5-0fc79051830f.png)
 Shows the URL http://127.0.0.1:8000
 
+Admin Credentials for practice site is admin, User1
